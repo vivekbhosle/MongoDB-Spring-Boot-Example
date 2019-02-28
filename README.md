@@ -1,7 +1,7 @@
 # MongoDB-Spring-Boot-Example
 MongoDB-Spring-Boot-Example
 
-Install MongoDB and create database, document as given in application.properties
+Install MongoDB and create database, collection as given in application.properties
 
 Run application using goal : spring-boot:run
 
